@@ -16,7 +16,15 @@ Identify and describe at least three key milestones in the evolution of software
 3.1990s - Agile Methodologies: The introduction of Agile methodologies like Scrum and Extreme Programming aimed at adapting to rapid changes and improving software quality.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+1. Requirement Analysis: Gathering and defining what the system needs to do.
 
+2.Design: Planning the system architecture and components.
+
+3.Implementation: Coding the software.
+
+4. Testing: Ensuring the software works correctly.
+
+5. Maintenance: Updating and fixing the software post-deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
