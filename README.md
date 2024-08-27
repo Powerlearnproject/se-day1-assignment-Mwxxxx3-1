@@ -33,21 +33,43 @@ Waterfall is a linear sequential model suitable for projects with well-defined r
 • Agile is iterative and incremental, allowing for flexibility and continuous improvement. It is ideal for projects where requirements are expected to change frequently.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software Developer: Codes, debugs, and maintains the software.
 
+• Quality Assurance Engineer: Tests the software to ensure quality and functionality.
+
+• Project Manager: Oversees the project, manages timelines, and coordinates team efforts.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+IDEs (e.g., Visual Studio, Eclipse): Integrated Development Environments provide tools for coding, debugging, and testing, enhancing productivity.
 
+VCS (e.g., Git, SVN): Version Control Systems manage changes to source code, facilitating collaboration and tracking modifications.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+• Challenges: Complexity, changing requirements, and tight deadlines.
+
+• Strategies: Use of Agile methodologies, continuous integration, and
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit Testing: Tests individual components or modules.
 
+• Integration Testing: Tests the
+
+interaction between integrated modules.
+
+• System Testing: Tests the complete system.
+
+• Acceptance Testing: Tests if the system meets the business requirements.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering involves crafting inputs (prompts) to Al models to elicit desired outputs. It is crucial for effective interaction with Al, ensuring clarity and specificity.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague: Tell me about flowers
+Improved:Provide a detailed summary of Flowers that are can thrive in Kenya and that are in demand in the export market.
+
+Explanation: The improved prompt is more effective as it specifies the type of information required, making the response more targeted and useful
