@@ -9,35 +9,35 @@ Software engineering is the branch of computer science that deals with the desig
 Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1.1968-The Birth of Software Engineering: The term "software engineering" was coined during the NATO Software Engineering Conference held in Germany, addressing the software crisis.
+1968-The Birth of Software Engineering: The term "software engineering" was coined during the NATO Software Engineering Conference held in Germany, addressing the software crisis.
 
-2.1970s - Object-Oriented Programming (OOP): The development of OOP languages like Smalltalk revolutionized software development by promoting reusability and modularity.
+1970s - Object-Oriented Programming (OOP): The development of OOP languages like Smalltalk revolutionized software development by promoting reusability and modularity.
 
-3.1990s - Agile Methodologies: The introduction of Agile methodologies like Scrum and Extreme Programming aimed at adapting to rapid changes and improving software quality.
+1990s - Agile Methodologies: The introduction of Agile methodologies like Scrum and Extreme Programming aimed at adapting to rapid changes and improving software quality.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-1. Requirement Analysis: Gathering and defining what the system needs to do.
+Requirement Analysis: Gathering and defining what the system needs to do.
 
-2.Design: Planning the system architecture and components.
+Design: Planning the system architecture and components.
 
-3.Implementation: Coding the software.
+Implementation: Coding the software.
 
-4. Testing: Ensuring the software works correctly.
+Testing: Ensuring the software works correctly.
 
-5. Maintenance: Updating and fixing the software post-deployment.
+ Maintenance: Updating and fixing the software post-deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall is a linear sequential model suitable for projects with well-defined requirements. It progresses through phases in a one-way flow.
 
-• Agile is iterative and incremental, allowing for flexibility and continuous improvement. It is ideal for projects where requirements are expected to change frequently.
+Agile is iterative and incremental, allowing for flexibility and continuous improvement. It is ideal for projects where requirements are expected to change frequently.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer: Codes, debugs, and maintains the software.
 
-• Quality Assurance Engineer: Tests the software to ensure quality and functionality.
+Quality Assurance Engineer: Tests the software to ensure quality and functionality.
 
-• Project Manager: Oversees the project, manages timelines, and coordinates team efforts.
+Project Manager: Oversees the project, manages timelines, and coordinates team efforts.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 IDEs (e.g., Visual Studio, Eclipse): Integrated Development Environments provide tools for coding, debugging, and testing, enhancing productivity.
@@ -45,21 +45,21 @@ IDEs (e.g., Visual Studio, Eclipse): Integrated Development Environments provide
 VCS (e.g., Git, SVN): Version Control Systems manage changes to source code, facilitating collaboration and tracking modifications.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-• Challenges: Complexity, changing requirements, and tight deadlines.
+Challenges: Complexity, changing requirements, and tight deadlines.
 
-• Strategies: Use of Agile methodologies, continuous integration, and
+Strategies: Use of Agile methodologies, continuous integration, and
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing: Tests individual components or modules.
 
-• Integration Testing: Tests the
+Integration Testing: Tests the
 
 interaction between integrated modules.
 
-• System Testing: Tests the complete system.
+System Testing: Tests the complete system.
 
-• Acceptance Testing: Tests if the system meets the business requirements.
+Acceptance Testing: Tests if the system meets the business requirements.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
